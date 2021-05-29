@@ -46,7 +46,7 @@
         
         .list-image li:before {
         
-        content: url('Egg.png');
+        content: '';
         
         width: 20px;
         
